@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=httpjmqcordero.github.io/portfolio//sample-page/httpjmqcordero.github.io/portfolio/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "httpjmqcordero.github.io/portfolio//sample-page/httpjmqcordero.github.io/portfolio/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="httpjmqcordero.github.io/portfolio//sample-page/httpjmqcordero.github.io/portfolio/feed/">httpjmqcordero.github.io/portfolio//sample-page/httpjmqcordero.github.io/portfolio/feed/</a></p>
+	</body>
+</html>
